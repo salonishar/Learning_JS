@@ -36,4 +36,10 @@
 
 
 //------------------------------------------------------------------------//
-//
+// (a)REMOVE FIRST ELEMENT (b)REPLACE Uber WITH Ola (c)ADD Amazon IN LAST
+// let companies = ['bloomberg', 'Microsoft', "Uber", "Google", "IBM", "Netflix"];
+
+// companies.shift();
+// companies.splice(1, 1, "Ola");
+// companies.push("Amazon");
+// console.log(companies);
